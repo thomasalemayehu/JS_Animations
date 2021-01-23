@@ -18,22 +18,22 @@
 }
 
 section div:nth-child(1):not(.caption) {
-    background-image: url(./light-1030988_1920.jpg);
+    background-image: url(./Flying\ Fish\ 2.jpg);
     background-size: cover;
 }
 
 section div:nth-child(2) {
-    background-image: url(./light-1603766_1920.jpg);
+    background-image: url(./No\ Text\ 2.jpg);
     background-size: cover;
 }
 
 section div:nth-child(4) {
-    background-image: url(./light-681540_1920.jpg);
+    background-image: url(./Moon.jpg);
     background-size: cover;
 }
 
 section div:nth-child(3) {
-    background-image: url(./lights-1088141_1920.jpg);
+    background-image: url(./woman-touches-her-lips-while-looking-outside-glass-wall-1895915.jpg);
     background-size: cover;
 }
 
